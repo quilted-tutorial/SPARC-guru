@@ -2,9 +2,6 @@
 title: "Quilted Tutorials"
 
 description: "Select the tutorial you would like to try out" 
-menu:
-  main:
-    weight: 1
 ---
 ### **Warning**
 Please make sure you have followed the instruction in the [Getting started]({{< ref "Getting_started" >}} "Getting_started") page before selecting your tutorial.
