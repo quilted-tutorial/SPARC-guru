@@ -1,7 +1,7 @@
 ---
 title: "Getting started"
 
-description: "You will find here the instructions to start the tutorial" 
+description: "Start the journey to become a SPARC Guru" 
 menu:
   main:
     weight: 1

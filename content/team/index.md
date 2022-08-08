@@ -1,7 +1,7 @@
 ---
 title: "Meet the team"
 
-description: "Find out who is behind the Quilted tutorial" 
+description: "Find out who is behind the Quilted Tutorials" 
 menu:
   main:
     weight: 1
