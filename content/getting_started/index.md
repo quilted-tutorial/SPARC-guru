@@ -28,4 +28,5 @@ Once this is done or if you already have JupyterLab installed on your machine si
 
     $ cd SPARC-tutorial && jupyter-lab --LabApp.token='' --no-browser
 
+Once JupyterLab is running there is only one thing left to do: select a tutorial. 
 Once JupyterLab is running you are all set and ready to go! Follow this [link](http://127.0.0.1:8888/lab) to get started and open the SPARC-tutorial.ipynb file.
