@@ -1,4 +1,4 @@
-baseURL = 'https://quilted-tutorial.github.io/'
+baseURL = 'https://quilted-tutorial.github.io/SPARC-guru'
 languageCode = 'en-us'
 title = 'SPARC FAIR Codeathon'
 theme = 'ananke'
