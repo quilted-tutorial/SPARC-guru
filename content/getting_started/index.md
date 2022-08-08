@@ -12,6 +12,10 @@ If you have not already done so, clone the GitHub repository onto your local mac
     $ git clone git@github.com:SPARC-FAIR-Codeathon/SPARC-Tutorial.git SPARC-tutorial
 
 The tutorial is contained in a Jupyter Notebook and requires Jupyter Lab to run. 
+#### **If you are familiar with Jupyter Lab**
+Open Jupyter Lab and navigate to the _SPARC-tutorial_ folder. Open the SPARC-tutorial.ipynb file and follow the tutorial.
+
+#### **If you are not familiar with Jupyter Lab**
 If you are unsure if Jupyter Lab is installed on your machine use this command in a terminal:
 
     $ which jupyter-lab
