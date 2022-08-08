@@ -10,4 +10,4 @@ The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([
 
 In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. This year, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)!
 
-Congratulations! You are all caught up on the basics of **SPARC** and **FAIR** data. It is now time to have some fun and finally start the [Quilted tutorial]({{< ref "Getting_started" >}} "Getting_started")!
+Congratulations! You are all caught up on the basics of **SPARC** and **FAIR** data. It is now time to have some fun and finally begin your journey towards the title of **SPARC** Guru by diving into the [Quilted Tutorials]({{< ref "Getting_started" >}} "Getting_started")!
