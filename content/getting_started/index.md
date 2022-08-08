@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 ### **Initial setup**
-If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder wit the following command:
+If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder with the following command:
 
     $ git clone git@github.com:SPARC-FAIR-Codeathon/SPARC-Tutorial.git SPARC-tutorial
 
