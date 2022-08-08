@@ -2,4 +2,7 @@
 $ git clone git@github.com:SPARC-FAIR-Codeathon/SPARC-Tutorial.git SPARC-tutorial The tutorial is contained in a Jupyter Notebook and requires JupyterLab to run.
 If you are familiar with JupyterLab Open JupyterLab and navigate to the SPARC-tutorial folder. Open the SPARC-tutorial.ipynb file and follow the tutorial.
 If you are not familiar with JupyterLab Not sure if JupyterLab is installed on your machine?</description></item><item><title>Meet the team</title><link>https://quilted-tutorial.github.io/SPARC-guru/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quilted-tutorial.github.io/SPARC-guru/team/</guid><description>Our team is based in Auckland, New Zealand at the Auckland Bioengineering Institute.
-Yuda Munarko (Team Leader) Omkar Athavale (Tutorial Developer) Mathias Roesler (Writer and Web Developer) Niloofar Shahidi (Writer) Kenneth Tran (Tutorial Developer)</description></item></channel></rss>
+Yuda Munarko (Team Leader) Omkar Athavale (Tutorial Developer) Mathias Roesler (Writer and Web Developer) Niloofar Shahidi (Writer) Kenneth Tran (Tutorial Developer)</description></item><item><title>Quilted Tutorials</title><link>https://quilted-tutorial.github.io/SPARC-guru/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quilted-tutorial.github.io/SPARC-guru/tutorials/</guid><description>Warning Please make sure you have followed the instruction in the Getting started page before selecting your tutorial.
+Mapping 2D data points to a 3D organ scaffhold The first Quilted Tutorial consists in mapping 2D data point to a 3D scaffhold.
+Follow this link to get started and open the SPARC-tutorial.ipynb file.
+Resampling dataset for simulations</description></item></channel></rss>
