@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://quilted-tutorial.github.io/'
 languageCode = 'en-us'
 title = 'SPARC FAIR Codeathon'
 theme = 'ananke'
