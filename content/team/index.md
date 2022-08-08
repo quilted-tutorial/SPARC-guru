@@ -8,12 +8,8 @@ menu:
 ---
 Our team is based in Auckland, New Zealand at the Auckland Bioengineering Institute.
 
-{{< figure src="images/3060947.png" title="Yuda Munarko (team leader)" >}}
-
-{{< figure src="images/25015754.png" title="Omkar Athavale (tutorial developer)" >}}
-
-{{< figure src="images/Mathias Roesler.jpg" title="Mathias Roesler (writer and web developer)" >}}
-
-{{< figure src="images/Mathias Roesler.jpg" title="Niloofar Shahidi (writer)" >}}
-
-{{< figure src="images/Mathias Roesler.jpg" title="Kenneth Tran (tutorial developer)" >}}
+   * ### [Yuda Munarko](https://github.com/napakalas) (Team Leader)
+   * ### [Omkar Athavale](https://github.com/OmkarAthavale) (Tutorial Developer)
+   * ### [Mathias Roesler](https://github.com/mathiasroesler) (Writer and Web Developer)
+   * ### [Niloofar Shahidi](https://github.com/Niloofar-Sh) (Writer)
+   * ### [Kenneth Tran](https://github.com/ktra014) (Tutorial Developer)
