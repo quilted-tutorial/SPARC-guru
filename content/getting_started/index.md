@@ -26,4 +26,4 @@ If there is no output, [install](https://jupyter.org/install) JupyterLab with th
     $ pip install jupyterlab
  
 
-Once JupyterLab is installed there is only one thing left to do: select a tutorial. Follow this [link](http://127.0.0.1:8888/lab) to see which tutorials are available!
+Once JupyterLab is installed there is only one thing left to do: select a tutorial. Follow this [link]({{< ref "post" >}} "post") to see which tutorials are available!
