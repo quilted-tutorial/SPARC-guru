@@ -1,5 +1,5 @@
 ---
-title: "Mapping 2D data points to a 3D organ scaffhold"
+title: "Tutorial 1: Mapping 2D data points to a 3D organ scaffhold"
 ---
 ### **Before you start**
 Please make sure you have followed the instruction in the [Getting started]({{< ref "Getting_started" >}} "Getting_started") page before selecting your tutorial.
