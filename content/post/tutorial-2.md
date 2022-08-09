@@ -1,5 +1,6 @@
 ---
 title: "Tutorial 2: Resampling dataset for simulations"
+featured_image: '/img/tutorial_2_image.png'
 ---
 ### **Before you start**
 Please make sure you have followed the instruction in the [Getting started]({{< ref "Getting_started" >}} "Getting_started") page before selecting your tutorial.
