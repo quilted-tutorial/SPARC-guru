@@ -6,7 +6,7 @@ Please make sure you have followed the instruction in the [Getting started]({{< 
 
 
 ### **Mapping 2D data points to a 3D organ scaffhold**
-The first Quilted Tutorial consists in mapping 2D data point to a 3D scaffhold. 
+The first Quilted Tutorial consists in mapping 2D data point to a 3D scaffhold. It has been tested using Ubuntu 22.04 LTS and Python 3.10.4
 
 In your terminal, navigate to the _tutorial-1_ folder in the cloned directory and start JupyterLab:
 
