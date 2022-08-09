@@ -8,5 +8,5 @@ Please make sure you have followed the instruction in the [Getting started]({{< 
 ### **Mapping 2D data points to a 3D organ scaffhold**
 The first Quilted Tutorial consists in mapping 2D data point to a 3D scaffhold. 
 
-Follow this [link](http://127.0.0.1:8888/lab/tutorial-1) to get started and open the SPARC-tutorial.ipynb file.
+Follow this [link](http://127.0.0.1:8888/lab/tree/tutorial-1) to get started and open the SPARC-tutorial.ipynb file.
 
